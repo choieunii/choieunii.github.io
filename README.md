@@ -1,4 +1,4 @@
-## Jekyll Blog
+# Jekyll Blog
 
 > This project has been modified from <https://github.com/cotes2020/jekyll-theme-chirpy/>
 
