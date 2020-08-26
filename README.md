@@ -21,12 +21,13 @@
 
 ## Installation
 
-Fork Chirpy on GitHub, and clone the fork to local
+Fork Chirpy on GitHub, and clone to local
+or Fork this repository
 
 ### Setting up the local environment
 
- 1. bundle install
- 2. Remove some files
+ 1. install ruby
+ 2. bundle install
  3. go to _config.yml
  4. Edit about yourself
  
@@ -35,3 +36,7 @@ Fork Chirpy on GitHub, and clone the fork to local
 ```
 jekyll serve
 ```
+
+## reference
+
+[install ruby](http://www.xyzdigital.com/tech/software/jekyll-on-windows)
