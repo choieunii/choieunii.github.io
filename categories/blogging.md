@@ -1,5 +1,5 @@
 ---
 layout: category
-title: blogging      # e.g. Insect
-category: blogging  # e.g. Insect
+title: Blogging      # e.g. Insect
+category: Blogging  # e.g. Insect
 ---
