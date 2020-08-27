@@ -2,7 +2,7 @@
 title: githubpage 세팅관련 노가다
 author: choieunji
 date: 2020-08-27 11:07:00 +0800
-categories: [Blogging, github page]
+categories: [Blogging, github_page]
 tags: [writing, github]
 ---
 
