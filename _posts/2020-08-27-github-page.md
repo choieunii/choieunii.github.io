@@ -49,3 +49,7 @@ jekyll serve
 
 구동이 잘되는것을 확인하였다면
 push 한다!!
+
+---
+내경우 위의 chirpy 테마를 사용할때 category, tag관련 404 에러가 떴다.
+이는 categories, tags 폴더를 추가하여 해결가능하다.
