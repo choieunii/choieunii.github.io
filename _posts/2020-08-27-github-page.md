@@ -1,5 +1,5 @@
 ---
-title: githubpage 세팅관련 노가다
+title: github page setting
 author: choieunji
 date: 2020-08-27 11:07:00 +0800
 categories: [Blogging, github_page]
@@ -9,9 +9,9 @@ tags: [writing, github]
 ## github page setting
 
 블로그를 보다보면 계정명.github.io 라는 주소로 되어있는 블로그들이 눈에 자주 띄는것같다.
-블로그를 하나만들어 놓은 뒤 공부하면서 찾은 내용, 공유하고 싶거나 정리하고 싶은 내용들을 가끔씩 포스팅 할 예정이다.
+github blog 세팅 후 공부하면서 찾은 내용, 공유하고 싶거나 정리하고 싶은 내용들을 가끔씩 포스팅 해야겠다.
 우선 이 블로그를 세팅하기 위해 jekyll을 사용한다. jekyll에 들어가면 다양한 테마들이 많은데 내가 fork해온 테마는
-[https://github.com/choieunii/jekyll-theme-chirpy]
+(https://github.com/choieunii/jekyll-theme-chirpy)
 이 테마이다. 
 
 ## setting 방법
