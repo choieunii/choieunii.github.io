@@ -46,3 +46,6 @@ bundle install
 jekyll serve
 ```
 를 하게되면 자신의 local에서 잘 구동이 되는것을 확인가능하다.
+
+구동이 잘되는것을 확인하였다면
+push를 한다!!
