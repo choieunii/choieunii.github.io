@@ -1,6 +1,6 @@
 ---
 ## title: 프로그래머스 완주하지 못한 선수
-author: Cotes Chung
+author: Choi eun ji
 date: 2020-09-02 14:00:00 +0800
 categories: [Blogging, algorithm]
 tags: [programmars,java]
