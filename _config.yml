@@ -14,7 +14,7 @@ subtitle:
 email: ghk784@dgu.ac.kr
 name: choieunji
 description: >
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://choieunii.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
