@@ -7,12 +7,12 @@
 
 # Site settings
 title:       devLog
-email:       ''
+email:       'ghk784@naver.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://choieunii.github.io/' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'https://github.com/choieunii'
 instagram:   ''
 facebook:    ''
 
