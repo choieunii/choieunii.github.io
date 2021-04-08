@@ -4,8 +4,8 @@
 
 .c-post {
   margin: 0 auto;
-  min-width: 700px;
   max-width: 800px;
+  min-width:80%;
   &__title {
     font-size: double($font-size-tiny);
     margin-bottom: $base-spacing-unit;
