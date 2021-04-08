@@ -1,6 +1,6 @@
 ---
 layout: post
-title: github page 적용
+title:  SOLID 원칙 정리
 tags: [SOLID, DesignPattern]
 ---
 
