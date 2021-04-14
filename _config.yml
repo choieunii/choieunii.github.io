@@ -36,22 +36,18 @@ exclude:
   - Gemfile.lock
 
 # Tags
-tag_page_dir:         tags
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-# Tags
 collections:
   tags:
     output: true
     permalink: /tags/:path/
+    
 # Tags
 defaults:
   - scope:
       path: ''
       type: tags
     values:
-      layout: tag_page
+      layout: tag
 
 # Pages path
 defaults:
