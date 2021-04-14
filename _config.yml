@@ -40,6 +40,19 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
+# Tags
+collections:
+  tags:
+    output: true
+    permalink: /tag/:path/
+# Tags
+defaults:
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag_page
+
 # Pages path
 defaults:
   - scope:
