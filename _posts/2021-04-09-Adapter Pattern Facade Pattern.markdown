@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 인터페이스 패턴
+title: Adapter Pattern Facade Pattern
 tags: [DesignPattern]
 ---
 
